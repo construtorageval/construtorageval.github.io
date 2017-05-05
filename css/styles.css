@@ -1,0 +1,43 @@
+body {
+  padding: 2%;
+}
+
+.main {
+  background-color: #00C853;
+  margin: 50px auto 10px auto;
+  width: 75%;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px #545556;
+  padding: 2px;
+}
+
+.main:hover {
+  box-shadow: 2px 2px 7px #545556;
+}
+
+.top {
+  font-family: 'Comfortaa', cursive;
+  font-size: 15px;
+  text-align: center;
+  padding: inherit;
+  margin: 50px auto 50px auto;
+  width: 50%;
+}
+
+.content {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 23px;
+  padding: inherit;
+  margin: 50px auto 10px auto;
+  width: 50%;
+}
+
+.bottom {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  padding: 1px;
+  margin: 10px auto 50px auto;
+  width: 50%;
+}
